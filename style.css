@@ -1,0 +1,45 @@
+img {
+  margin-left: 450px;
+  margin-top: 20px;
+}
+.header1 {
+  background-color: #fffacd;
+  height: 50px;
+  margin-top: -10px;
+  padding: 0%;
+}
+.header2 {
+  background-color:#D84AFA;
+  height: 50px;
+  margin-top: -10px;
+  padding: 0%;
+}
+.header3 {
+  background-color: #375FE6;
+  height: 50px;
+  margin-top: -10px;
+  padding: 0%;
+}
+.body1 {
+  background-color: #ffdd37;
+}
+.body2 {
+  background-color: #ef74fa;
+}
+.body3 {
+  background-color: #adcbe6;
+}
+.logo1{
+    margin-top: 10px;
+    float: right;
+    height: 30px;
+    width: 200px;
+}
+.botao1 {
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 20px;
+}
